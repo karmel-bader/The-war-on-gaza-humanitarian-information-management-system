@@ -1,0 +1,16 @@
+1 Ali 30 male gaza 0567834456 dad Martyr 8/10/2023 bomb gaza
+2 Nadia 30 female gaza 3498760456 mom Martyr 8/10/2023 bomb gaza
+3 Ahmad 5 male gaza 0678342987 son Alive
+4 Aseel 10 female gaza 98364058296 daughter Alive
+5 Hala 8 female gaza 6496781435 daughter Martyr 8/10/2023 gaza
+6 Omar 35 male Deir-Albalah 7893450857 dad Alive
+7 Alia 30 female Deir-Albalah 9461205683 mom Alive
+8 Mohammed 3 male Deir-Albalah 92845186254 son Martyr 20/11/2023 bomb gaza
+9 Bessan 8 female Deir-Albalah 6496782540 daughter Alive
+10 Baraa 10 male Deir-Albalah 93547815385 son Martyr 20/11/2023 bomb gaza    
+11 Bilal 40 male rafah 5386194538 dad Martyr 1/12/2023 bomb rafah
+12 Eman 37 female rafah 1234567893 mom Alive
+13 Roaa 14 female rafah 1234567897 daughter Alive
+14 Naseem 10 male rafah 2345678909 son Martyr 1/12/2023 bomb rafah
+15 Anas 5 male rafah 34567891278 son Alive  
+
